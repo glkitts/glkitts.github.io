@@ -1,0 +1,21 @@
+---
+title: "Giordan Kitts"
+image: "giordan.jpeg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: CV
+    url: "CV.pdf"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/giordan-kitts/"    
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?hl=en&user=xhXHMPIAAAAJ"
+  - label: GitHub
+    url: "https://glkitts.github.io"
+  - label: Email
+    url: "mailto:gkitts@ucsc.edu"
+output:
+  postcards::onofre
+---
+ 
