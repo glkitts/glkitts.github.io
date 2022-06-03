@@ -2,7 +2,7 @@
 title: "Giordan Kitts"
 image: "giordan.jpeg"
 color1: "#440154FF"
-color2: "#55C667FF"
+color2: "#20A377FF"
 angle: 130
 links:
   - label: CV
