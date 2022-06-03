@@ -12,7 +12,7 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?hl=en&user=xhXHMPIAAAAJ"
   - label: GitHub
-    url: "https://glkitts.github.io"
+    url: "https://github.com/glkitts"
   - label: Email
     url: "mailto:gkitts@ucsc.edu"
 output:
