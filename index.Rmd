@@ -1,5 +1,5 @@
 ---
-title: "Giordan Kitts"
+title: "Giordan Kitts, Ph.D"
 image: "giordan.jpeg"
 color1: "#440154FF"
 color2: "#20A377FF"
